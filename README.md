@@ -4,17 +4,6 @@ Portofolio ini telah diperbarui secara menyeluruh dengan mengacu pada **CV, Tran
 
 ---
 
-## 📁 Berkas yang Tersedia
-
-1. **[`index.html`](file:///C:/Users/hp/.gemini/antigravity/scratch/rizky-maulana-portfolio/index.html)**:  
-   Website portofolio interaktif responsif berbasis tema **Cyber Ops Console** (Dark Mode, status bar operasional, tombol hubungi email langsung, riwayat karier di 4 perusahaan, studi kasus nyata, terminal CLI interaktif, dan galeri sertifikasi resmi).
-2. **[`PORTOFOLIO-LENGKAP.md`](file:///C:/Users/hp/.gemini/antigravity/scratch/rizky-maulana-portfolio/PORTOFOLIO-LENGKAP.md)**:  
-   Dokumen format Markdown terstruktur yang berisi profil lengkap, riwayat karier, matriks keahlian, detail 5 studi kasus proyek riil, dan daftar sertifikasi lengkap. Siap diekspor ke PDF atau dicantumkan di LinkedIn.
-3. **[`README.md`](file:///C:/Users/hp/.gemini/antigravity/scratch/rizky-maulana-portfolio/README.md)**:  
-   Dokumen petunjuk ini.
-
----
-
 ## 🌟 Informasi Aktual yang Disesuaikan Berdasarkan CV
 
 - **Nama Lengkap & Gelar:** Rizky Maulana, S.Kom.
@@ -50,10 +39,3 @@ Portofolio ini telah diperbarui secara menyeluruh dengan mengacu pada **CV, Tran
   - **Lembaga Bahasa UNPAM (2023)**: TOEFL Prediction Test (Skor 383).
 
 ---
-
-## 🚀 Cara Melihat Website Portofolio di Browser
-
-1. Buka folder:
-   `C:\Users\hp\.gemini\antigravity\scratch\rizky-maulana-portfolio`
-2. Klik dua kali pada berkas **`index.html`** untuk membukanya langsung di Google Chrome, Microsoft Edge, atau browser lainnya.
-3. Seluruh tombol interaktif (tautan hubungi email, salin email instan, serta terminal CLI) siap digunakan langsung.
